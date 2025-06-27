@@ -33,3 +33,8 @@ expr(): Handles addition and subtraction.
 
 Conclusion:
 This project successfully demonstrates the basics of compiler construction, specifically lexical analysis and recursive descent parsing. While it does not generate machine code or intermediate code, it captures the foundational concepts of parsing and evaluation, which are essential in any compiler. The implementation not only satisfies the CODTECH internship requirement but also provides a solid stepping stone for exploring more advanced topics in compiler design, such as abstract syntax trees, semantic analysis, and code generation.
+
+*OUTPUT
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/878049e8-f4d8-4b62-9483-f2535a25da2e" />
+
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/07d40a6c-69bf-4d9f-80a3-f8f7518fbf0b" />
